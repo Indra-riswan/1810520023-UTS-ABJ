@@ -1,0 +1,6 @@
+VlanID :1  VlanName :coba
+VlanID :2  VlanName :test
+VlanID :3  VlanName :MANAGER
+VlanID :4  VlanName :MATARAM
+VlanID :5  VlanName :BUMIGORA
+VlanID :6  VlanName :AKADEMIK
